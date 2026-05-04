@@ -1,15 +1,28 @@
-Hi there, I'm  Abdul Halim Mansour
-Aspiring Data Scientist | Data Wrangling Specialist | NTI Scholar
+## About me ?
 
-I am a dedicated learner focused on mastering Data Analysis and Machine Learning. My core strength lies in Data Wrangling—transforming messy, real-world data into clean, actionable insights. Currently, I am building a strong foundation through practical projects and professional certifications like the IBM Data Analyst Professional Certificate.
+## Academic Background
+I am a **Computer Science and Mathematics** student at the Faculty of Science. My academic foundation in math gives me a unique edge in understanding the logic behind data structures and algorithms.
 
-What I'm working on:
-Mastering Data Wrangling and Exploratory Data Analysis (EDA) using the "Python for Data Analysis" textbook.
+## My Data Journey
+My passion for data isn't just about tools; it's about mastering the art of **Data Wrangling**. 
+*   **Learning from the Source:** I believe in deep learning, which led me to study the foundational book *"Python for Data Analysis"* to master the internals of the Python data ecosystem.
+*   **The Pursuit of Real-World Data:** I am currently focusing on high-level practical training, working with authentic corporate datasets to bridge the gap between academic study and professional market requirements.
 
-Building a comprehensive analysis using Python and SQL.
+## Technical Toolkit
+*   **Python for Data Science:** Focused on professional data processing and "Pythonic" standards.
+*   **Database Management:** Deepening my knowledge of **SQL** and Relational Databases alongside my college studies.
+*   **Excel:** Solid background in data organization and analysis using Microsoft Excel.
+*   **Professional Certification:** Currently enhancing my skills through **IBM Data Science** professional courses and projects.
 
-Solidifying my expertise in NumPy and Pandas for efficient data manipulation.
+## Philosophy & Goals
+> "I am here to learn, persist, and succeed."
 
-🎓 Participating in the NTI Intensive Training Program to bridge the gap between academic study and professional work.
+I consider myself a **Lifelong Learner**. I don't just look for shortcuts; I look for depth. My goal is to continuously evolve until I reach the top of the Data Science field, driven by a commitment to quality and a passion for solving complex problems.
 
+---
+** How to reach me:** 
+*   Currently building my portfolio, one query at a time.
+*   Open for discussions on Data Analysis, SQL, and Pythonic solutions.
 
+---
+*“Staying a student of the game, until I master it.”*
