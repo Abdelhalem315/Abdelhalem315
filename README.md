@@ -20,7 +20,7 @@ My passion for data isn't just about tools; it's about mastering the art of **Da
 I consider myself a **Lifelong Learner**. I don't just look for shortcuts; I look for depth. My goal is to continuously evolve until I reach the top of the Data Science field, driven by a commitment to quality and a passion for solving complex problems.
 
 ---
-** How to reach me:** 
+## How to reach me:
 *   Currently building my portfolio, one query at a time.
 *   Open for discussions on Data Analysis, SQL, and Pythonic solutions.
 
