@@ -1,28 +1,33 @@
 ## About me ?
 
-## Academic Background
-I am a **Computer Science and Mathematics** student at the Faculty of Science. My academic foundation in math gives me a unique edge in understanding the logic behind data structures and algorithms.
+# Abd El-Halim Mansour
+**Math & CS Student | Future AI Engineer**
 
-## My Data Journey
-My passion for data isn't just about tools; it's about mastering the art of **Data Wrangling**. 
-*   **Learning from the Source:** I believe in deep learning, which led me to study the foundational book *"Python for Data Analysis"* to master the internals of the Python data ecosystem.
-*   **The Pursuit of Real-World Data:** I am currently focusing on high-level practical training, working with authentic corporate datasets to bridge the gap between academic study and professional market requirements.
-
-## Technical Toolkit
-*   **Python for Data Science:** Focused on professional data processing and "Pythonic" standards.
-*   **Database Management:** Deepening my knowledge of **SQL** and Relational Databases alongside my college studies.
-*   **Excel:** Solid background in data organization and analysis using Microsoft Excel.
-*   **Professional Certification:** Currently enhancing my skills through **IBM Data Science** professional courses and projects.
-
-## Philosophy & Goals
-> "I am here to learn, persist, and succeed."
-
-I consider myself a **Lifelong Learner**. I don't just look for shortcuts; I look for depth. My goal is to continuously evolve until I reach the top of the Data Science field, driven by a commitment to quality and a passion for solving complex problems.
+I look at Artificial Intelligence through the lens of mathematical principles and raw algorithm logic, rather than just importing black-box libraries. My goal is to build scalable, high-performance ML systems from the ground up.
 
 ---
-## How to reach me:
-*   Currently building my portfolio, one query at a time.
-*   Open for discussions on Data Analysis, SQL, and Pythonic solutions.
+
+### 🚀 The Journey & Vision
+* **Where I Started:** Rooted in Mathematics & Computer Science, my journey began with a deep curiosity for how data behaves beneath the surface—leading me to master Pythonic data wrangling, memory optimization, and relational database architectures.
+* **What I'm Doing Now:** Building robust ML engineering pipelines, refining algorithms, and preparing for professional AI roles through intensive hands-on projects and certifications (Cisco, MCIT, Udemy).
+* **Where I'm Headed:** Specialized AI Engineering—focusing on core machine learning logic, modular system design, and real-world deployment.
 
 ---
-*“Staying a student of the game, until I master it.”*
+
+### 🛠️ Technical Stack & Expertise
+
+* **Core Foundations:** Python (NumPy, Pandas, Scikit-Learn), Linear Algebra, Calculus, Probability & Statistics
+* **Data & Pipelines:** Feature Engineering, Data Cleaning, Memory Optimization, AST & Regex Parsing
+* **Databases:** SQL, MySQL, Database Design, SQLAlchemy Integration
+* **Engineering Tools:** Git, GitHub, VS Code, Jupyter
+
+---
+
+### 📌 Selected Projects
+
+* **European Hotel Reviews:** Engineered an end-to-end Python pipeline processing 515K+ reviews, optimizing memory usage by 70%.
+* **Olist E-Commerce:** Built a MySQL relational schema and automated Python-SQL integration for push-down analytics.
+
+---
+
+📫 **Let's Connect:** [LinkedIn](www.linkedin.com/in/abdulhalimmansour) | **Giza, Egypt**
